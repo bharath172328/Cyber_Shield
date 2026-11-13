@@ -1,0 +1,14 @@
+# C++ build
+backend/build/
+backend/logs/
+*.db
+*.db-shm
+*.db-wal
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
